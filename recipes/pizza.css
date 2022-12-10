@@ -1,0 +1,18 @@
+h1{
+    text-align:center;
+    font-style: italic;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: blanchedalmond;
+}
+img{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    height: 250px;
+    width: 400px;
+}
+.topic{
+    background-color:aquamarine;
+    text-align: center;
+    font-weight: 500;
+}

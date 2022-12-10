@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    background-color: beige;
+    font-size: 80px;
+}
+img{
+    height: 250px;
+    width:400px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+p{
+    font-family:'Times New Roman', Times, serif;
+}
+.topic{
+    text-align:center;
+    background-color:aliceblue ;
+}
